@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3pl4cDndmV2iaFnAos3LmVZcYF6P1A5BrYxL9McsCmBA4Ro0U5TdxuAkyX+qzGbLHB9bPDj7EAPhn8r6PmE5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rod_f\\OneDrive\\Documentos\\VFS\\Term04\\Pipelines\\PG24Rodrigo_Pipelines_A3\\AudioFormatConverter\\AudioFormatConverter\\AudioFormatConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rod_f\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.lame\\2.1.0\\naudio.lame.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.vorbis\\1.5.0\\naudio.vorbis.1.5.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\nvorbis\\0.10.5\\nvorbis.0.10.5.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\rod_f\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
